@@ -1,0 +1,22 @@
+name: Cbsystem
+version: '${project.version}'
+main: me.moontimer.cbsystem.Main
+authors: [ MoonTimer ]
+description: CB System
+website: https://moontimer.me
+commands:
+  tpall:
+
+  tp:
+
+  tphere:
+
+  gamemode:
+    aliases:
+      - gm
+  god:
+
+  heal:
+
+  fly:
+
